@@ -29,13 +29,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Web-CSS-%2300AAFF)
 ![](https://img.shields.io/badge/Web-HTML5-%23FF8000)
 
-- ⚡ Github stars card
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=biyuehu&show_icons=true&theme=tokyonight" /> </div>
 
-- 🌱 Most used languages
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyuehu" /> </div>
 
-- 🤔 Other cards...
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=biyuehu" /> </div>
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=biyuehu&theme=xcode" /> </div>
