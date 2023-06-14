@@ -1,6 +1,6 @@
 ### Welcome to this special profile 👋
-### 🦊 is watching you 👁️
-### Our target is 🕷️
+- 🦊 is watching you 👁️
+-  Our target is 🕷️
 > Tell you a secret about me,that is me to like you,can you give 🦊 to a warm encouragement?
 ## 💬 About myself
 I'm a **ACG** liker,love **Anime** and **Galgame**.My favorite virtual character is Furukawa Nagisa(古河渚/ふるかわ ナギさ) from the key anime《Clannad》.
