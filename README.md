@@ -3,8 +3,8 @@
 ### Our target is 🕷️
 > Tell you a secret about me,that is me to like you,can you give 🦊 to a warm encouragement?
 ## 💬 About myself
-  I'm a **ACG** liker,love **Anime** and **Galgame**.My favorite virtual character is Furukawa Nagisa(古河渚/ふるかわ ナギさ) from the key anime《Clannad》,she is my wife,if you can see then please to tell her that I love her.
-  At the same tiem,I also like to study programming and computers(Especially **Web**,**Node** and **Server**),always try to,make some Strange or useful things
+  I'm a **ACG** liker,love **Anime** and **Galgame**.My favorite virtual character is Furukawa Nagisa(古河渚/ふるかわ ナギさ) from the key anime《Clannad》.
+  At the same tiem,I also like to study programming and computers(Especially **Web**,**Node** and **Server**),always try to,make some Strange or useful things.
 
 <!--
 **BIYUEHU/biyuehu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ## 🌱 Most used languages
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyuehu" /> </div>
 
-## 🧐 Other cards...
+## 🤔 Other cards...
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=biyuehu" /> </div>
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=biyuehu&theme=xcode" /> </div>
