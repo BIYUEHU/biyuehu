@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=biyuehu" /> </div>
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=biyuehu&theme=xcode" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=biyuehu" /> </div>
