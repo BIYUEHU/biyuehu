@@ -1,7 +1,7 @@
 ### Welcome to this special profile 👋
 > Tell you a secret about me,that is me to like you,can you give 🦊 to a warm encouragement?
 ## 💬 About myself
-I'm a **ACG** liker,love **Anime** and **Galgame**.My favorite virtual character is `Furukawa Nagisa(古河渚/ふるかわ ナギさ)` from the key anime《Clannad》.
+ - 😄 The best love character is `Furukawa Nagisa(古河渚/ふるかわ ナギさ)` from the key anime《Clannad》.
 At the same tiem,I also like to study programming and computers(Especially **Web**,**Node** and **Server**),always try to,make some Strange or useful things.
 
 <!--
@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Server-PHP-%23FFBBBB)
 ![](https://img.shields.io/badge/Web-JavaScript-%23FFEE00)
 ![](https://img.shields.io/badge/Web-Vue.js-42b883)
-![](https://img.shields.io/badge/Pyhton-%2300FFAA)
+![](https://img.shields.io/badge/Pyhton-326b9b)
 
 <details>	
   <summary><b>Github Stats</b></summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyuehu" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=biyuehu&show_icons=true" />
 </details>
 
 <details>	
   <summary><b>Most Used Languages</b></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=biyuehu&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyuehu" /> 
 </details>
 <!--- <img src="https://github-readme-streak-stats.herokuapp.com/?user=biyuehu" /> --->
