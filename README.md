@@ -1,9 +1,10 @@
 ### Welcome to this special profile 👋
 > Tell you a secret about me,that is me to like you,can you give 🦊 to a warm encouragement?
 ## 💬 About myself
- - 😄 The best love character is `Furukawa Nagisa(古河渚/ふるかわ ナギさ)` from the key anime《Clannad》.
-At the same tiem,I also like to study programming and computers(Especially **Web**,**Node** and **Server**),always try to,make some Strange or useful things.
-
+ - 😄 The best love character is `[Furukawa Nagisa(古河渚/ふるかわ ナギさ)](https://bgm.tv/character/4)` from the key anime《Clannad》
+- At the same tiem,I also like to study programming and computers(Especially **Web**,**Node** and **Server**),always try to,make some Strange or useful things.
+- 🌱 I'm currently learning Rust and C Languages
+- ⚡
 <!--
 **BIYUEHU/biyuehu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biyuehu" />
 -->
-
+- 
 ![](https://img.shields.io/badge/Node-TypeScript-%230088FF)
 ![](https://img.shields.io/badge/Server-PHP-%23FFBBBB)
 ![](https://img.shields.io/badge/Web-JavaScript-%23FFEE00)
