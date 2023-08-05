@@ -21,8 +21,8 @@ Here are some ideas to get you started:
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biyuehu" />
 -->
 - 
-![](https://img.shields.io/badge/Node-TypeScript-%230088FF)
-![](https://img.shields.io/badge/Server-PHP-%23FFBBBB)
+![](https://img.shields.io/badge/TypeScript-%230088FF)
+![](https://img.shields.io/badge/PHP-7a86b8)
 ![](https://img.shields.io/badge/Web-JavaScript-%23FFEE00)
 ![](https://img.shields.io/badge/Web-Vue.js-42b883)
 ![](https://img.shields.io/badge/Pyhton-326b9b)
