@@ -2,9 +2,7 @@
 > Tell you a secret about me,that is me to like you,can you give 🦊 to a warm encouragement?
 ## 💬 About myself
  - 😄 The best love character is `[Furukawa Nagisa(古河渚/ふるかわ ナギさ)](https://bgm.tv/character/4)` from the key anime《Clannad》
-- At the same tiem,I also like to study programming and computers(Especially **Web**,**Node** and **Server**),always try to,make some Strange or useful things.
-- 🌱 I'm currently learning Rust and C Languages
-- ⚡
+ - 🌱 I'm currently learning Rust and C Languages
 <!--
 **BIYUEHU/biyuehu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
