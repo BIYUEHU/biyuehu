@@ -1,7 +1,7 @@
 ### Welcome to this profile 👋
 > Tell you a secret about me,that is me to like you,can you give 🦊 a warm encouragement?
 
-- 😄 The best love character is `[Furukawa Nagisa(古河渚/ふるかわ ナギさ)](https://bgm.tv/character/4)` from the key anime《Clannad》
+- 😄 The best love character is [`Furukawa Nagisa(古河渚/ふるかわ ナギさ)`](https://bgm.tv/character/4) from the key anime《Clannad》
 - 🌱 I'm currently learning Rust and C
 - ⚡Languages and Technology stack
   
