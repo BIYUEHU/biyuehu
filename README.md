@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/PHP-7a86b8)
 ![](https://img.shields.io/badge/Web-JavaScript-%23FFEE00)
 ![](https://img.shields.io/badge/Web-Vue.js-42b883)
+![](https://img.shields.io/badge/Web-CSS-%2300AAFF)
+![](https://img.shields.io/badge/Web-HTML5-%23FF8000)
 ![](https://img.shields.io/badge/Pyhton-326b9b)
 
 <details>	
