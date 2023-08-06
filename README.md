@@ -4,6 +4,7 @@
 - 😄 The best love character is `[Furukawa Nagisa(古河渚/ふるかわ ナギさ)](https://bgm.tv/character/4)` from the key anime《Clannad》
 - 🌱 I'm currently learning Rust and C
 - ⚡Languages and Technology stack
+  
 ![](https://img.shields.io/badge/TypeScript-%230088FF)
 ![](https://img.shields.io/badge/PHP-7a86b8)
 ![](https://img.shields.io/badge/Web-JavaScript-%23FFEE00)
