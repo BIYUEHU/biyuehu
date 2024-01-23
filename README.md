@@ -1,10 +1,9 @@
-### Welcome to this profile 👋
-> Tell you a secret about me,that is me to like you,can you give 🦊 a warm encouragement?
+# Welcome to this profile 👋
 
 - 😄 The best like character is [Furukawa Nagisa(古河渚/ふるかわ ナギさ)](https://bgm.tv/character/4) from the key's visual novel《Clannad》
 - 🌱 I'm currently learning Rust and C
 - ⚡Languages and Technology stack:
-  
+
 ![](https://img.shields.io/badge/TypeScript-%230088FF)
 ![](https://img.shields.io/badge/PHP-7a86b8)
 ![](https://img.shields.io/badge/Web-JavaScript-%23FFEE00)
@@ -12,6 +11,7 @@
 ![](https://img.shields.io/badge/Web-CSS-%2300AAFF)
 ![](https://img.shields.io/badge/Web-HTML5-%23FF8000)
 ![](https://img.shields.io/badge/Pyhton-326b9b)
+
 <!--
 **BIYUEHU/biyuehu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,13 +28,13 @@ Here are some ideas to get you started:
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biyuehu" />
 -->
 
-<details>	
+<details>
   <summary><b>Github Stats</b></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=biyuehu&show_icons=true" />
 </details>
 
-<details>	
+<details>
   <summary><b>Most Used Languages</b></summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyuehu" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyuehu" />
 </details>
 <!--- <img src="https://github-readme-streak-stats.herokuapp.com/?user=biyuehu" /> --->
