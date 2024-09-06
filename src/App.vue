@@ -59,7 +59,7 @@ body {
   z-index: -10;
   top: 0;
   left: 0;
-  background-image: url(https://pic.imgdb.cn/item/6497f5991ddac507cc2c300b.png);
+  background-image: url(https://pic.imgdb.cn/item/66da6e98d9c307b7e9bbb840.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

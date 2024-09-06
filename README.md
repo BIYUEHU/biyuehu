@@ -1,10 +1,11 @@
 ### 👋 Hi there
 
-- 🧩 The best like character is [Furukawa Nagisa(古河渚)](https://bgm.tv/character/4)
-- 🌱 I'm currently learning Rust and C
+- 🧩 The best like character is [Himeno Sena(姬野星奏)](https://m.hotaru.icu/#/character/7) and [Arimura Romi(有村ロミ)](https://m.hotaru.icu/#/character/4)
+- 🌱 I'm currently learning Haskell
 - 👯 Blog: [HotaruBlog](https://hotaru.icu)
 - 🧊 Bangumi: [himeno](https://bgm.tv/user/himeno)
-- 📫 Email：[biyuehuya@gmail.com](mailto://biyuehuya@gmail.com)
+- 📫 Email：[me@hotaru.icu](mailto://me@hotaru.icu)
+- 💬 Dream: Immigrate to Japan and become a Japanese
 
 <!--
 <div align="center">
