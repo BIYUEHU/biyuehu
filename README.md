@@ -16,7 +16,7 @@
 
 </div> -->
 
-### 🧰 Languages and Technology stack
+<!-- ### 🧰 Languages and Technology stack
 
 <div align="center">
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.typescriptlang.org/favicon.ico" alt="typescript" width="40" height="40"/> </a>
@@ -34,13 +34,13 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.google.com/chrome/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/> </a>
-</div>
+</div> -->
 
 ### 💻 Stats
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=biyuehu&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=biyuehu)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biyuehu&show_icons=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biyuehu)
 
 </div>
