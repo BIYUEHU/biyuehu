@@ -1,7 +1,7 @@
 ### 👋 Hi there
 
 - 🧩 The best like character is [Himeno Sena(姬野星奏)](https://m.hotaru.icu/#/character/7) and [Arimura Romi(有村ロミ)](https://m.hotaru.icu/#/character/4)
-- 🌱 I'm currently learning Haskell
+- 🌱 I'm currently learning Haskell and Ocaml
 - 👯 Blog: [HotaruBlog](https://hotaru.icu)
 - 🧊 Bangumi: [himeno](https://bgm.tv/user/himeno)
 - 📫 Email：[me@hotaru.icu](mailto://me@hotaru.icu)
