@@ -5,7 +5,7 @@
 - 👯 Blog: [HotaruBlog](https://hotaru.icu)
 - 🧊 Bangumi: [himeno](https://bgm.tv/user/himeno)
 - 📫 Email：[me@hotaru.icu](mailto://me@hotaru.icu)
-- 💬 Dream: Immigrate to Japan and become a Japanese
+<!-- 💬 Dream: Immigrate to Japan and become a Japanese -->
 
 <!--
 <div align="center">
