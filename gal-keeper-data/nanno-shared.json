@@ -1,11 +1,21 @@
 {
   "deleteIds": [
-    "00127ff6-0e12-47c5-8047-6919610ce6ab",
     "6f1bc7b5-3167-4f03-92c1-500e27dc523f",
     "8fa68c90-34d6-4804-b57c-8f6f883def67",
     "d5225971-f448-44de-9893-17da23045aa1",
+    "00127ff6-0e12-47c5-8047-6919610ce6ab",
     "fb485575-3ab7-479a-af15-8b9d5cc0816b",
-    "e54bd91e-8d45-4f06-a51a-6286814969eb"
+    "e54bd91e-8d45-4f06-a51a-6286814969eb",
+    "36500530-bbdd-42ea-bbdc-8eea5bce096d",
+    "2b8e00e0-b304-4e1e-a11a-321a248f6101",
+    "a82c75da-e046-4ea8-ae83-c6d2ae90ba27",
+    "d72e7ba3-dc16-4b0b-97b1-01d3c6955abb",
+    "63ddd946-0db2-4393-b631-572c93f3444a",
+    "07f08b27-83c8-43ba-9963-8b34a95d8ec1",
+    "652ce92f-4296-455f-a7d2-2c94bac9d09b",
+    "ac9530f8-c0cd-442a-9206-8f9c98e402da",
+    "a8f4a0b0-66bb-4a03-af67-46a160f9973e",
+    "830373ae-7164-4b2d-923a-96ad99d0d71e"
   ],
   "data": [
     {
@@ -1952,44 +1962,44 @@
     {
       "id": "ce3868c9-89dd-4448-885d-45344d3d57a5",
       "vndbId": "v1755",
-      "title": "Natsuyume Nagisa",
-      "updateDate": 1738337896.196,
+      "title": "ナツユメナギサ",
+      "updateDate": 1738399006.796,
       "alias": [
-        "ナツユメナギサ",
-        "夏梦渚"
+        "夏梦渚",
+        "ナツユメナギサ"
       ],
-      "description": "The story takes place on a reclaimed island, where sunflowers are planted all over, beautiful butterflies fly around and stray penguins roam around.\n\nNagisa is a boy who can't remember his past. One day, he meets some girls. As the story goes, he gradually finds an important person deep inside his memory and true himself. The summer you were there. The summer you weren't there. The summer with you. Through various events with the girls, what kind of memory will he reach?\n\n[From ErogeShop]",
+      "description": "本島から離れた場所に位置する常夏の街、臨海副都心「hope」。街中に植えられたヒマワリなどが年中咲き誇り、蝶の姿をした妖精が舞い、街のあちこちに「野良ペンギン」と称されるペンギンが歩いているのが当たり前の光景である人工島に、一人の少年が流れ着いた。少年の名は郡山渚、なぜかここに流れ着くまでの一切の記憶を失っていた。\r\n\r\n大学の援助もあり白波学園に編入した渚は、「真夏のクリスマス」を1ヵ月後に控えていた白波学園での生活の中で少女達と出会いつつ、夢の中だけに出てくる「大切な人」の幻影と共に「真実の自分」と出会うため、自分の過去を模索する。そして、長い夏の終わりに渚がたどり着く自分の過去と、この物語の真実とは…？\r\n",
       "tags": [
-        "Dream",
-        "Amnesiac Protagonist",
-        "High School Student Heroine",
-        "One True End",
-        "Nakige",
-        "Mystery",
-        "Island",
-        "Student Protagonist",
-        "Unavoidable Protagonist Death",
-        "Romance",
-        "Drama",
-        "Proactive Protagonist",
-        "Only Virgin Heroines",
+        "游戏",
+        "狗血夕",
+        "不如前作",
+        "泣系",
+        "幼なじみ",
+        "SAGA_PLANETS",
+        "全通",
+        "剧情",
+        "纯爱",
+        "夏",
+        "2009-07",
+        "R18",
+        "AVG",
+        "后藤麻衣",
+        "SAGA",
         "ADV",
-        "Male Protagonist",
-        "Enforced Playing Order",
-        "Deredere Heroine",
-        "Protagonist's Childhood Friend as a Heroine",
-        "Alternate Dimensions",
-        "Time Loop",
-        "Student Heroine",
-        "Heroine with Heterochromia",
-        "Breaking the Fourth Wall",
-        "Branching Plot",
-        "The Holiday Season",
-        "Defloration",
-        "Summer",
-        "Sunflowers",
-        "Missionary Position",
-        "Death of Protagonist"
+        "ナツユメナギサ",
+        "PC",
+        "2009",
+        "汉化",
+        "佐本二厘",
+        "夏梦",
+        "GAL",
+        "新岛夕",
+        "四季系列",
+        "治愈",
+        "暖人心田",
+        "Galgame",
+        "SAGAPLANETS",
+        "新島夕"
       ],
       "playTimelines": [
         [
@@ -2017,7 +2027,7 @@
       "lastPlay": 1738259863000,
       "createDate": 1738252665195,
       "releaseDate": 1248998400000,
-      "rating": 7.8,
+      "rating": 7.4,
       "developer": "SAGA PLANETS",
       "images": [
         "https://t.vndb.org/sf/27/20627.jpg",
@@ -2027,15 +2037,16 @@
       ],
       "links": [
         {
-          "url": "https://ja.wikipedia.org/wiki/ナツユメナギサ",
-          "name": "jawiki"
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/ナツユメナギサ"
         },
         {
           "url": "https://www.wikidata.org/wiki/Q11323902",
           "name": "wikidata"
         }
       ],
-      "cover": "https://t.vndb.org/cv/39/89639.jpg"
+      "cover": "https://lain.bgm.tv/pic/cover/l/97/13/4529_05E08.jpg",
+      "bgmId": "4529"
     },
     {
       "id": "469e4cc1-c41c-41db-9360-70c08f2e1da2",
