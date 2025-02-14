@@ -2235,6 +2235,105 @@
         }
       ],
       "cover": "https://t.vndb.org/cv/17/85317.jpg"
+    },
+    {
+      "id": "885a8067-6934-4e0f-b423-64662b531076",
+      "vndbId": "v16695",
+      "bgmId": "121971",
+      "updateDate": 1739558381.259,
+      "alias": [
+        "雨的边缘",
+        "Ame no Marginal -Rain Marginal-",
+        "Ame no Marginal",
+        "雨のマージナル",
+        "Istorija mira dozhdja"
+      ],
+      "description": "ある日気付くと飢えも死も何もなく、ただ雨が降り続ける不思議な場所へ迷い込んだ少女。\r\nしかし、その世界で唯一会えた凛と名乗る女の子に『出ていって』と言われてしまいます!\r\n定員は1人と言うこの地で途方もなく長い時間を独りで過ごす凛とは、一体何者なのか…?\r\nNarcissu1のサイドストーリーも収録、極上のサウンドノベルを最後までお楽しみ下さい☆ ",
+      "tags": [
+        "盘4",
+        "生名多聞",
+        "GE必要",
+        "36",
+        "音乐好评",
+        "氛围作，叙事风格依旧很棒，能够让人一口气读完。",
+        "氛围",
+        "SekaiProject",
+        "雰囲気",
+        "游戏",
+        "水仙",
+        "萝莉",
+        "ステージなな",
+        "全年龄",
+        "ADV",
+        "汉化",
+        "雨のマージナル",
+        "同人",
+        "AVG",
+        "GAL",
+        "ステージ☆なな",
+        "stagenana",
+        "感动",
+        "2014",
+        "STEAM",
+        "PC",
+        "孤独",
+        "短篇",
+        "Galgame",
+        "片岡とも"
+      ],
+      "playTimelines": [
+        [
+          1739558407,
+          1739558867,
+          459
+        ]
+      ],
+      "expectedPlayHours": 3.8,
+      "lastPlay": 1739558867000,
+      "createDate": 1739558381259,
+      "releaseDate": 1419897600000,
+      "rating": 7,
+      "developer": "Stage-nana",
+      "images": [
+        "https://t.vndb.org/sf/31/86431.jpg",
+        "https://t.vndb.org/sf/32/86432.jpg",
+        "https://t.vndb.org/sf/33/86433.jpg",
+        "https://t.vndb.org/sf/34/86434.jpg",
+        "https://t.vndb.org/sf/10/88810.jpg",
+        "https://t.vndb.org/sf/11/88811.jpg",
+        "https://t.vndb.org/sf/23/130623.jpg",
+        "https://t.vndb.org/sf/24/130624.jpg",
+        "https://t.vndb.org/sf/25/130625.jpg",
+        "https://t.vndb.org/sf/26/130626.jpg"
+      ],
+      "links": [
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q111541511"
+        },
+        {
+          "name": "indiedb_game",
+          "url": "https://www.indiedb.com/games/ame-no-marginal-rain-marginal"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=29280"
+        },
+        {
+          "url": "https://www.igdb.com/games/ame-no-marginal-rain-marginal",
+          "name": "igdb_game"
+        },
+        {
+          "name": "pcgamingwiki",
+          "url": "https://www.pcgamingwiki.com/wiki/Ame_no_Marginal"
+        },
+        {
+          "url": "https://lutris.net/games/ame-no-marginal-rain-marginal-",
+          "name": "lutris"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/84/5a/121971_31sO8.jpg",
+      "title": "雨のマージナル"
     }
   ]
 }
