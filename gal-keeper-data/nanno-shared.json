@@ -15060,7 +15060,7 @@
       "id": "62843b6f-1daa-473a-8801-56db8ccf8040",
       "vndbId": "v599",
       "bgmId": "5395",
-      "updateDate": 1739612418.876,
+      "updateDate": 1739720816.847,
       "alias": [
         "Forest"
       ],
@@ -15097,9 +15097,15 @@
         "Liar-soft",
         "星空めてお"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1739720818,
+          1739720970,
+          141
+        ]
+      ],
       "expectedPlayHours": 15.4,
-      "lastPlay": 0,
+      "lastPlay": 1739720970000,
       "createDate": 1738080000000,
       "releaseDate": 1076630400000,
       "rating": 8.6,
