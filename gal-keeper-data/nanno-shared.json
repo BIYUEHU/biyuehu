@@ -37,7 +37,9 @@
     "d7bac511-ffa6-4bfc-9eba-184643c4a602",
     "db4bd27c-c1dd-4a9d-b893-a97c433f8253",
     "59723ea2-20c5-4f72-a9d9-eac3559f42dd",
-    "d1a31e11-cff1-4d99-8d62-404c9b56a6dc"
+    "d1a31e11-cff1-4d99-8d62-404c9b56a6dc",
+    "70b5613d-5947-4135-aa97-38294ce9193d",
+    "acee9a23-9176-4986-9af0-1fa7ed0d8f04"
   ],
   "data": [
     {
@@ -8515,7 +8517,7 @@
       "id": "26b86d43-16c8-4c37-ba33-39a0e13124f3",
       "vndbId": "v22313",
       "bgmId": "233030",
-      "updateDate": 1739613324.29,
+      "updateDate": 1739691419.662,
       "title": "さくら、もゆ。-as the Night's, Reincarnation-",
       "alias": [
         "樱花、萌放。-as the Night's, Reincarnation-",
@@ -9737,10 +9739,15 @@
           1726493643,
           1726493645,
           2
+        ],
+        [
+          1739691422,
+          1739691436,
+          11
         ]
       ],
       "expectedPlayHours": 60.7,
-      "lastPlay": 1726493645000,
+      "lastPlay": 1739691436000,
       "createDate": 1738080000000,
       "releaseDate": 1548892800000,
       "rating": 2,
