@@ -40,7 +40,10 @@
     "d1a31e11-cff1-4d99-8d62-404c9b56a6dc",
     "70b5613d-5947-4135-aa97-38294ce9193d",
     "acee9a23-9176-4986-9af0-1fa7ed0d8f04",
-    "307d8da1-c27f-4022-ae93-b76d4d7842ee"
+    "307d8da1-c27f-4022-ae93-b76d4d7842ee",
+    "2f977a17-d9fe-40db-9e7a-790b17a835ea",
+    "34688763-14ea-49cc-8b4f-5185b802027f",
+    "23e0add3-37c6-41be-8d67-9a942c4c308e"
   ],
   "data": [
     {
@@ -151,94 +154,6 @@
       "cover": "https://t.vndb.org/cv/49/90349.jpg",
       "vndbId": "v24987",
       "updateDate": 1738328896.006
-    },
-    {
-      "id": "34688763-14ea-49cc-8b4f-5185b802027f",
-      "title": "Hatsuyuki Sakura",
-      "alias": [
-        "Hatsuyuki Sakura: White Graduation",
-        "はつゆきさくら",
-        "하츠유키 사쿠라",
-        "初雪樱",
-        "初雪櫻"
-      ],
-      "description": "Kawano Hatsuyuki is a third-year student, one of the rare delinquents at Shirosaki Gakuen. He reluctantly shows up in order to fulfill his graduation requirements.\n\nIt's December, and the first snow of the year has fallen. In one lot of the old town, Hatsuyuki encounters a beautiful girl wearing a white dress. She's wandering the streets under the falling snow, in search of her rabbit. A few days later, the girl in the dress, Sakura, transfers into his school, in order to take Hatsuyuki along towards the last winter.\n\nWith the turn of the four seasons, 1095 days come to an end. Soon winter will pass, and spring will arrive. Embracing memories of snow that never accumulated, the youth stands perfectly still.\n\nFrom the first snow (Hatsuyuki) to cherry blossoms (Sakura), congratulations on your graduation.",
-      "tags": [
-        "Slice of Life",
-        "Winter",
-        "High School Student Heroine",
-        "Heroine with Big Breasts",
-        "Tsundere Protagonist",
-        "Ghost Heroine",
-        "Proactive Protagonist",
-        "Group of Friends",
-        "Revenge",
-        "One True End",
-        "White Haired Heroine",
-        "Male Protagonist",
-        "Episodic Story",
-        "Flashback",
-        "High School",
-        "More Than Seven Endings",
-        "Serious Protagonist",
-        "Varied Title Screens",
-        "Ghost Protagonist",
-        "Valentine's Day",
-        "Other Perspectives",
-        "Enforced Playing Order",
-        "Multiple Opening Movies",
-        "Mystery",
-        "Central Heroine",
-        "Protagonist with a Face",
-        "Arranged Marriage",
-        "High School Student Protagonist",
-        "Middle School Student Heroine",
-        "Music Recollection"
-      ],
-      "playTimelines": [],
-      "expectedPlayHours": 27.8,
-      "lastPlay": 0,
-      "createDate": 1738154537613,
-      "releaseDate": 1330041600000,
-      "rating": 7,
-      "developer": "SAGA PLANETS",
-      "images": [
-        "https://t.vndb.org/sf/05/27005.jpg",
-        "https://t.vndb.org/sf/08/27008.jpg",
-        "https://t.vndb.org/sf/59/29459.jpg",
-        "https://t.vndb.org/sf/60/29460.jpg",
-        "https://t.vndb.org/sf/61/29461.jpg",
-        "https://t.vndb.org/sf/62/29462.jpg",
-        "https://t.vndb.org/sf/63/29463.jpg",
-        "https://t.vndb.org/sf/64/29464.jpg",
-        "https://t.vndb.org/sf/65/29465.jpg",
-        "https://t.vndb.org/sf/66/29466.jpg"
-      ],
-      "links": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Hatsuyuki_Sakura",
-          "name": "enwiki"
-        },
-        {
-          "url": "https://ja.wikipedia.org/wiki/はつゆきさくら",
-          "name": "jawiki"
-        },
-        {
-          "url": "https://www.wikidata.org/wiki/Q167003",
-          "name": "wikidata"
-        },
-        {
-          "url": "https://gamefaqs.gamespot.com/-/652316-",
-          "name": "gamefaqs_game"
-        },
-        {
-          "url": "https://www.igdb.com/games/hatsuyuki-sakura",
-          "name": "igdb_game"
-        }
-      ],
-      "cover": "https://t.vndb.org/cv/43/89943.jpg",
-      "vndbId": "v7302",
-      "updateDate": 1738328919.221
     },
     {
       "id": "f351f647-b94e-43d1-91e7-e680d0972ba5",
@@ -1175,72 +1090,6 @@
       ],
       "cover": "https://t.vndb.org/cv/63/79663.jpg",
       "title": "Sakura no Uta -Sakura no Mori no Ue o Mau-"
-    },
-    {
-      "id": "23e0add3-37c6-41be-8d67-9a942c4c308e",
-      "vndbId": "v20431",
-      "updateDate": 1738328980.224,
-      "alias": [
-        "サクラノ刻－櫻の森の下を歩む－",
-        "樱之刻－漫步于樱花之森下－"
-      ],
-      "description": "The story centers on Kusanagi Naoya after the events of Sakura no Uta.\n\n[spoiler]The final scene that Naoya and Ai saw while looking down at Yumihari when descending from that hill. Up through that point, there were many untold stories.\nTwo Geniuses: Kusanagi Naoya and Natsume Kei's true story. \nWhy do these artists continue to fascinate the people even after death or ceasing their profession? \nThe painter who is the very embodiment of beauty herself, Misakura Rin, why does she want to keep moving beyond where they halted?\nHikawa Rina, Kawachiino Yuumi, Toritani Makoto and Natsume Ai. The intersection of all kinds of human thoughts.[/spoiler]\n\n[From [url=https://moe-gameaward.com/title/detail.html?id=9016]Moe Game Awards[/url]]",
-      "tags": [
-        "Drama",
-        "Artist Protagonist",
-        "Philosophy",
-        "Painter Protagonist",
-        "Varying Ending Songs",
-        "Family Feud",
-        "ADV",
-        "Male Protagonist",
-        "Episodic Story",
-        "Protagonist with a Face",
-        "Protagonist with a Sprite",
-        "Painter Heroine",
-        "Backlog Jump",
-        "Multiple Protagonists",
-        "Girl x Girl Romance",
-        "Romance",
-        "Female Protagonist",
-        "Adult Protagonist",
-        "Enforced Playing Order",
-        "Bullying",
-        "Life and Death Drama",
-        "Teacher Heroine",
-        "Coming-of-Age Drama",
-        "Slice of Life Drama",
-        "Adult Heroine",
-        "Nakige",
-        "Other Perspectives",
-        "Journalist Heroine",
-        "Artist Heroine",
-        "Protagonist with Partial Voice Acting"
-      ],
-      "playTimelines": [],
-      "expectedPlayHours": 44.1,
-      "lastPlay": 0,
-      "createDate": 1738328762234,
-      "releaseDate": 1677196800000,
-      "rating": 7,
-      "developer": "Makura",
-      "images": [
-        "https://t.vndb.org/sf/73/159473.jpg",
-        "https://t.vndb.org/sf/74/159474.jpg",
-        "https://t.vndb.org/sf/57/176057.jpg",
-        "https://t.vndb.org/sf/58/176058.jpg",
-        "https://t.vndb.org/sf/59/176059.jpg",
-        "https://t.vndb.org/sf/60/176060.jpg",
-        "https://t.vndb.org/sf/62/176062.jpg"
-      ],
-      "links": [
-        {
-          "name": "wikidata",
-          "url": "https://www.wikidata.org/wiki/Q117413661"
-        }
-      ],
-      "cover": "https://t.vndb.org/cv/66/79666.jpg",
-      "title": "Sakura no Toki -Sakura no Mori no Shita o Ayumu-"
     },
     {
       "id": "ce3868c9-89dd-4448-885d-45344d3d57a5",
