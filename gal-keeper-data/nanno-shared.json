@@ -39,7 +39,8 @@
     "59723ea2-20c5-4f72-a9d9-eac3559f42dd",
     "d1a31e11-cff1-4d99-8d62-404c9b56a6dc",
     "70b5613d-5947-4135-aa97-38294ce9193d",
-    "acee9a23-9176-4986-9af0-1fa7ed0d8f04"
+    "acee9a23-9176-4986-9af0-1fa7ed0d8f04",
+    "307d8da1-c27f-4022-ae93-b76d4d7842ee"
   ],
   "data": [
     {
@@ -11236,106 +11237,6 @@
         {
           "url": "https://www.wikidata.org/wiki/Q10943107",
           "name": "wikidata"
-        }
-      ]
-    },
-    {
-      "id": "307d8da1-c27f-4022-ae93-b76d4d7842ee",
-      "vndbId": "v10",
-      "updateDate": 1739612218.761,
-      "title": "narcissu",
-      "alias": [
-        "narcissu"
-      ],
-      "cover": "https://t.vndb.org/cv/13/93313.jpg",
-      "description": "The anonymous protagonist is diagnosed with a terminal illness shortly after his twentieth birthday, and is admitted to a hospital in Mito, Ibaraki. There he meets Setsumi, a woman a few years older, who is also terminally ill. Finding that they both reject to die either in hospital or at home, they steal a car and run away together.\n\n[Edited from [url=http://en.wikipedia.org/wiki/Narcissu]Wikipedia[/url]]",
-      "tags": [
-        "Clinical Depression",
-        "Kinetic Novel",
-        "Dying Heroine",
-        "Death of Heroine",
-        "Single Ending",
-        "Only a Single Heroine",
-        "Utsuge",
-        "Dying Protagonist",
-        "Health Issues",
-        "Sickly Protagonist",
-        "Linear Plot",
-        "Terminal Illness",
-        "Sickly Heroine",
-        "Journey",
-        "Life and Death Drama",
-        "Suicide",
-        "ADV",
-        "Unavoidable Heroine Death",
-        "No Sexual Content",
-        "Central Heroine",
-        "Male Protagonist",
-        "Depression (obsolete)",
-        "No Gallery",
-        "Road Trip",
-        "Photographic Backgrounds",
-        "No Character Sprites",
-        "Parting Ending",
-        "Unnamed Protagonist",
-        "Adult Protagonist",
-        "Car"
-      ],
-      "playTimelines": [],
-      "expectedPlayHours": 2.9,
-      "lastPlay": 0,
-      "createDate": 1738080000000,
-      "releaseDate": 1122940800000,
-      "rating": 7.5,
-      "developer": "Stage-nana",
-      "images": [
-        "https://t.vndb.org/sf/40/340.jpg",
-        "https://t.vndb.org/sf/81/1281.jpg",
-        "https://t.vndb.org/sf/82/1282.jpg",
-        "https://t.vndb.org/sf/64/18964.jpg",
-        "https://t.vndb.org/sf/70/24970.jpg",
-        "https://t.vndb.org/sf/71/24971.jpg",
-        "https://t.vndb.org/sf/96/37596.jpg",
-        "https://t.vndb.org/sf/97/37597.jpg",
-        "https://t.vndb.org/sf/98/37598.jpg",
-        "https://t.vndb.org/sf/80/97180.jpg"
-      ],
-      "links": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Narcissu",
-          "name": "enwiki"
-        },
-        {
-          "url": "https://ja.wikipedia.org/wiki/ナルキッソス_(ゲーム)",
-          "name": "jawiki"
-        },
-        {
-          "name": "wikidata",
-          "url": "https://www.wikidata.org/wiki/Q306348"
-        },
-        {
-          "name": "mobygames",
-          "url": "https://www.mobygames.com/game/narcissu"
-        },
-        {
-          "name": "indiedb_game",
-          "url": "https://www.indiedb.com/games/narcissu-1st-2nd"
-        },
-        {
-          "url": "http://howlongtobeat.com/game.php?id=23314",
-          "name": "howlongtobeat"
-        },
-        {
-          "name": "igdb_game",
-          "url": "https://www.igdb.com/games/narcissu-1st-and-2nd"
-        },
-        {
-          "name": "pcgamingwiki",
-          "url": "https://www.pcgamingwiki.com/wiki/Narcissu"
-        },
-        {
-          "name": "lutris",
-          "url": "https://lutris.net/games/narcissu-1st-and-2nd"
         }
       ]
     },
