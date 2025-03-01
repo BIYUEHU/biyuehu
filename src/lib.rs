@@ -1,34 +1,46 @@
 use leptos::prelude::*;
-use leptos_meta::*;
-use leptos_router::{components::*, path};
+use wasm_bindgen::prelude::*;
+mod config;
 
-// Modules
-mod components;
-mod pages;
+#[wasm_bindgen]
+extern "C" {
+    #[wasm_bindgen(js_namespace = particlesJS, js_name = load)]
+    fn load(id: &str, path: &str);
+}
 
-// Top-Level pages
-use crate::pages::home::Home;
-
-/// An app router which renders the homepage and handles 404's
 #[component]
 pub fn App() -> impl IntoView {
-    // Provides context that manages stylesheets, titles, meta tags, etc.
-    provide_meta_context();
+    // load("particles-js", "particles.json");
 
     view! {
-        <Html attr:lang="en" attr:dir="ltr" attr:data-theme="light" />
-
-        // sets the document title
-        <Title text="Welcome to Leptos CSR" />
-
-        // injects metadata in the <head> of the page
-        <Meta charset="UTF-8" />
-        <Meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-        <Router>
-            <Routes fallback=|| view! { NotFound }>
-                <Route path=path!("/") view=Home />
-            </Routes>
-        </Router>
+        <div id="particles-js"></div>
+        <div class="bg" style=format!("background-image: url({});", config::background())></div>
+        <div class="card">
+            <img
+                src=config::avatar()
+                alt="avatar"
+                style="border-radius: 100%;"
+                width="200"
+                height="200"
+            />
+            <div style="font-size: 30px; font-weight: bold;">{config::name()}</div>
+            <div style="font-size: 19px;">{config::description()}</div>
+            <div style="font-size: 21px;">{config::content()}</div>
+        <div class="button_group">
+        {
+        config::button().into_iter().map(|item| {
+          view! {
+            <a
+            href=item.link
+            target=if item.blank { "_blank" } else { "_self" }
+            class=item.class.unwrap_or("button")
+            >
+            {item.text}
+            </a>
+          }
+        })
+        .collect::<Vec<_>>()}
+        </div>
+        </div>
     }
 }
