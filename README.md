@@ -8,6 +8,26 @@
 - 💬 Dream: Immigrate to Japan
 <!-- and become a Japanese -->
 
+### 🔗 Skills
+
+```idris2
+record Skills where
+    constructor MkSkills
+    languages : List String
+    operationSystems : List String
+    storages : List String
+    framework : List String
+    frontFrameworks : List String
+
+skills : Skills
+skills = MkSkills
+    ["TypeScript", "Rust", "C", "Haskell", "Ocaml", "Python", "Lua", "PHP"]
+    ["Linux", "Windows"]
+    ["SQLite", "MySQL"]
+    ["NestJs", "Rocket.rs", "Tauri", "Leptos", "Laravel"]
+    ["Solid", "React", "Angular", "Lit", "Vue3"]
+```
+
 <!--
 <div align="center">
 

@@ -1,11 +1,11 @@
 name: Deploy
 
 on:
-  push:
-    branches:
-      - master
-    paths-ignore:
-      - "gal-keeper-data/**"
+  # push:
+  #   branches:
+  #     - master
+  #   paths-ignore:
+  #     - "gal-keeper-data/**"
   workflow_dispatch:
 
 permissions:
