@@ -10,7 +10,7 @@
 
 ### 🔗 Skills
 
-```idris2
+```idris
 record Skills where
     constructor MkSkills
     languages : List String
