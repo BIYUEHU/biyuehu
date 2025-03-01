@@ -3,7 +3,7 @@ name: Deploy
 on:
   push:
     branches:
-      - main
+      - master
     paths-ignore:
       - "gal-keeper-data/**"
   workflow_dispatch:
@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 jobs:
-  docs:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -33,11 +33,12 @@ jobs:
         run: cargo install trunk
 
       - name: Build with Trunk
-        run: trunk build --release"
+        run: trunk build --release
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
+          repo: biyuehu/biyuehu.github.io
           target_branch: pages
           build_dir: dist
         env:

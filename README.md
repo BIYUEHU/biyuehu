@@ -1,11 +1,12 @@
 ### 👋 Hi there
 
-- 🧩 The best like character is [Himeno Sena(姬野星奏)](https://m.hotaru.icu/#/character/7) and [Arimura Romi(有村ロミ)](https://m.hotaru.icu/#/character/4)
-- 🌱 I'm currently learning Haskell and Ocaml
+- 🧩 The best like character is [Himeno Sena(姬野星奏)](https://himeno-sena.com) and [Arimura Romi(有村ロミ)](https://m.hotaru.icu/#/character/4)
+- 🌱 I'm currently learning Idris2 and Type Theory
 - 👯 Blog: [HotaruBlog](https://hotaru.icu)
-- 🧊 Bangumi: [himeno](https://bgm.tv/user/himeno)
+<!-- - 🧊 Bangumi: [himeno](https://bgm.tv/user/himeno) -->
 - 📫 Email：[me@hotaru.icu](mailto://me@hotaru.icu)
-<!-- 💬 Dream: Immigrate to Japan and become a Japanese -->
+- 💬 Dream: Immigrate to Japan
+<!-- and become a Japanese -->
 
 <!--
 <div align="center">
