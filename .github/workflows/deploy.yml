@@ -1,6 +1,11 @@
 name: Deploy
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "gal-keeper-data/**"
   workflow_dispatch:
 
 permissions:
@@ -15,17 +20,20 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Install nightly Rust
-        uses: dtolnay/rust-toolchain@nightly
+      - name: Set up Rust
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+          override: true
 
       - name: Add WASM target
         run: rustup target add wasm32-unknown-unknown
 
-      - name: Download and install Trunk binary
-        run: wget -qO- https://github.com/trunk-rs/trunk/releases/download/v0.18.4/trunk-x86_64-unknown-linux-gnu.tar.gz | tar -xzf-
+      - name: Install Trunk
+        run: cargo install trunk
 
       - name: Build with Trunk
-        run: ./trunk build --release"
+        run: trunk build --release"
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
