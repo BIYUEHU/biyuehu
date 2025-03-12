@@ -389,10 +389,15 @@
           1741682674,
           1741683271,
           594
+        ],
+        [
+          1741798095,
+          1741798643,
+          416
         ]
       ],
       "expectedPlayHours": 14.4,
-      "lastPlay": 1741683271000,
+      "lastPlay": 1741798643000,
       "createDate": 1738154609240,
       "releaseDate": 967680000000,
       "rating": 7.3,
@@ -421,7 +426,7 @@
       ],
       "cover": "https://lain.bgm.tv/pic/cover/l/1e/b5/7979_Qygog.jpg",
       "vndbId": "v915",
-      "updateDate": 1741514084.607,
+      "updateDate": 1741798094.293,
       "bgmId": "7979"
     },
     {
