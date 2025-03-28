@@ -43,7 +43,8 @@
     "307d8da1-c27f-4022-ae93-b76d4d7842ee",
     "2f977a17-d9fe-40db-9e7a-790b17a835ea",
     "34688763-14ea-49cc-8b4f-5185b802027f",
-    "23e0add3-37c6-41be-8d67-9a942c4c308e"
+    "23e0add3-37c6-41be-8d67-9a942c4c308e",
+    "7743e123-c13b-4d04-b624-8242caef551b"
   ],
   "data": [
     {
@@ -467,12 +468,12 @@
         ],
         [
           1743178873,
-          1743179469,
-          579
+          1743180068,
+          1054
         ]
       ],
       "expectedPlayHours": 14.4,
-      "lastPlay": 1743179469000,
+      "lastPlay": 1743180068000,
       "createDate": 1738154609240,
       "releaseDate": 967680000000,
       "rating": 7.3,
@@ -950,101 +951,6 @@
       ],
       "cover": "https://t.vndb.org/cv/31/101331.jpg",
       "title": "AstralAir no Shiroki Towa"
-    },
-    {
-      "id": "7743e123-c13b-4d04-b624-8242caef551b",
-      "vndbId": "v18852",
-      "updateDate": 1738328731.214,
-      "alias": [
-        "Amatsutsumi",
-        "アマツツミ",
-        "아마츠츠미",
-        "天津罪"
-      ],
-      "description": "Our hero, Makoto, possesses the power of \"kotodama\" which allows one to control people with the power of one’s voice.\n\nHaving an interest in the outside world, he leaves the hidden village he has lived in all his life. However, he found himself woefully unprepared and collapses on the side of the road in a small town almost as remote as his village. Just as he's resigned himself to death, he's saved by Oribe Kokoro, a girl whose family runs a cafe in that town.\n\nUsing his kotodama powers, Makoto becomes a part of the Oribe family and begins attending school with Kokoro. He soon meets several girls who each have their own special circumstances. Will Makoto be able to use kotodama to help these girls? And what is the true nature of kotodama?\n\nThis is a story of the words that weave the ties that bind...\n\n[From [url=https://sekaiproject.com/portfolio-item/amatsutsumi/]Sekai Project[/url]]",
-      "tags": [
-        "One True End",
-        "Food Discussions",
-        "Defloration During Common Route",
-        "Ladder Structure",
-        "High School Student Heroine",
-        "Sex with Protagonist Only",
-        "Heroine with Big Breasts",
-        "Heroine with Small Breasts (Non-Loli)",
-        "Heroine with Pre-story Virginity Loss to the Protagonist",
-        "Early Sexual Content",
-        "Male Protagonist",
-        "Floating Textbox",
-        "Long Sexual Scenes",
-        "Backlog Jump",
-        "Romance",
-        "Memory Alteration",
-        "Sprite Viewer",
-        "Multiple Endings",
-        "Superpowers",
-        "Brocon Heroine",
-        "Protagonist's Fiancee as a Heroine",
-        "Protagonist's Childhood Friend as a Heroine",
-        "Protagonist's Younger Sister as a Heroine",
-        "ADV",
-        "Episodic Story",
-        "Few Choices",
-        "High School",
-        "Non-blood-related Brother/Sister Incest",
-        "Brother/Sister Romance",
-        "Imouto-type Heroine"
-      ],
-      "playTimelines": [],
-      "expectedPlayHours": 30,
-      "lastPlay": 0,
-      "createDate": 1738328731214,
-      "releaseDate": 1469750400000,
-      "rating": 7.8,
-      "developer": "Purple software",
-      "images": [
-        "https://t.vndb.org/sf/59/96759.jpg",
-        "https://t.vndb.org/sf/60/96760.jpg",
-        "https://t.vndb.org/sf/61/96761.jpg",
-        "https://t.vndb.org/sf/62/96762.jpg",
-        "https://t.vndb.org/sf/65/96765.jpg",
-        "https://t.vndb.org/sf/15/96815.jpg",
-        "https://t.vndb.org/sf/82/195682.jpg",
-        "https://t.vndb.org/sf/83/195683.jpg",
-        "https://t.vndb.org/sf/84/195684.jpg",
-        "https://t.vndb.org/sf/85/195685.jpg"
-      ],
-      "links": [
-        {
-          "name": "jawiki",
-          "url": "https://ja.wikipedia.org/wiki/アマツツミ"
-        },
-        {
-          "name": "wikidata",
-          "url": "https://www.wikidata.org/wiki/Q38276352"
-        },
-        {
-          "name": "gamefaqs_game",
-          "url": "https://gamefaqs.gamespot.com/-/188240-"
-        },
-        {
-          "url": "https://www.animecharactersdatabase.com/source.php?id=104807",
-          "name": "acdb_source"
-        },
-        {
-          "url": "https://www.igdb.com/games/amatsutsumi",
-          "name": "igdb_game"
-        },
-        {
-          "name": "pcgamingwiki",
-          "url": "https://www.pcgamingwiki.com/wiki/Amatsutsumi"
-        },
-        {
-          "name": "lutris",
-          "url": "https://lutris.net/games/amatsutsumi"
-        }
-      ],
-      "cover": "https://t.vndb.org/cv/31/79031.jpg",
-      "title": "Amatsutsumi"
     },
     {
       "id": "6123d3fa-c997-4ca7-8b54-b85724ff2dc8",
@@ -16358,6 +16264,77 @@
       "links": [],
       "cover": "https://lain.bgm.tv/pic/cover/l/e6/7b/114304_6soSy.jpg",
       "title": "去人たちⅠ／Ⅱ"
+    },
+    {
+      "id": "8be9c369-71d9-4ed7-bfac-beefb002ca52",
+      "vndbId": "v4851",
+      "updateDate": 1743179543.538,
+      "alias": [
+        "キサラギGOLD★STAR",
+        "如月金★星"
+      ],
+      "description": "Six friends live together in an apartment Kosumosu-sou. Even though it is old and run-down, their are always positive and enjoying their time together. Even now they are attending the same school, Kisaragi Academy, and each of them has a special talent, except Futami. He’s just an ordinary student and has always watched over his friends like a mother. Even though his childhood friends are all talented, they cannot do anything without him. Together they have a big dream, which will bring happiness to them all.\n\n[From [url=https://omochikaeri.wordpress.com/2010/10/01/october-2010-eroge-releases/]Hau~ Omochikaeri![/url]]",
+      "tags": [
+        "ADV",
+        "Male Protagonist",
+        "Romance",
+        "Protagonist's Childhood Friend as a Heroine",
+        "Deredere Heroine",
+        "Unlockable Choices",
+        "Unlockable Routes",
+        "Autumn",
+        "Yamato Nadeshiko Heroine",
+        "Fighting Heroine",
+        "Comedy",
+        "Kuudere Heroine",
+        "One True End",
+        "Student Council",
+        "Protagonist's Non-blood-related Sister as a Heroine",
+        "Map Movement",
+        "Student Club",
+        "School Festival",
+        "Small Breast Sizes Heroine (Non-Loli)",
+        "Childishly Violent Heroine",
+        "Painter Heroine",
+        "Bad Ending(s)",
+        "Ponytail Heroine",
+        "Defloration",
+        "More Than Seven Heroines",
+        "Only Virgin Heroines",
+        "Group of Friends",
+        "Wedding",
+        "Pretending Heroine",
+        "Missionary Position"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 31.4,
+      "lastPlay": 0,
+      "createDate": 1743179543538,
+      "releaseDate": 1288310400000,
+      "rating": 7.3,
+      "developer": "SAGA PLANETS",
+      "images": [
+        "https://t.vndb.org/sf/08/14508.jpg",
+        "https://t.vndb.org/sf/09/14509.jpg",
+        "https://t.vndb.org/sf/10/14510.jpg",
+        "https://t.vndb.org/sf/11/14511.jpg",
+        "https://t.vndb.org/sf/12/14512.jpg",
+        "https://t.vndb.org/sf/13/14513.jpg",
+        "https://t.vndb.org/sf/15/14515.jpg",
+        "https://t.vndb.org/sf/16/14516.jpg"
+      ],
+      "links": [
+        {
+          "url": "https://ja.wikipedia.org/wiki/キサラギGOLD★STAR",
+          "name": "jawiki"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q11296640",
+          "name": "wikidata"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/55/94555.jpg",
+      "title": "Kisaragi Gold ★ Star"
     }
   ]
 }
