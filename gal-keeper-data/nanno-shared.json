@@ -473,12 +473,12 @@
         ],
         [
           1743223933,
-          1743225720,
-          895
+          1743225775,
+          937
         ]
       ],
       "expectedPlayHours": 14.4,
-      "lastPlay": 1743225720000,
+      "lastPlay": 1743225775000,
       "createDate": 1738154609240,
       "releaseDate": 967680000000,
       "rating": 7.3,
@@ -16022,7 +16022,7 @@
       "id": "8b214cd8-fd75-44e3-8af8-e76a08b8c9ee",
       "vndbId": "v18852",
       "bgmId": "220311",
-      "updateDate": 1739613564.513,
+      "updateDate": 1743226099.434,
       "alias": [
         "青鸟",
         "Amatsutsumi",
