@@ -16022,7 +16022,7 @@
       "id": "8b214cd8-fd75-44e3-8af8-e76a08b8c9ee",
       "vndbId": "v18852",
       "bgmId": "220311",
-      "updateDate": 1743226099.434,
+      "updateDate": 1743266363.007,
       "alias": [
         "青鸟",
         "Amatsutsumi",
@@ -16063,9 +16063,15 @@
         "Galgame",
         "Purplesoftware"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1743266137,
+          1743266308,
+          14
+        ]
+      ],
       "expectedPlayHours": 30,
-      "lastPlay": 0,
+      "lastPlay": 1743266308000,
       "createDate": 1738080000000,
       "releaseDate": 1511481600000,
       "rating": 7.3,
