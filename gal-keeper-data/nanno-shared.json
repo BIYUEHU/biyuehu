@@ -44,7 +44,8 @@
     "2f977a17-d9fe-40db-9e7a-790b17a835ea",
     "34688763-14ea-49cc-8b4f-5185b802027f",
     "23e0add3-37c6-41be-8d67-9a942c4c308e",
-    "7743e123-c13b-4d04-b624-8242caef551b"
+    "7743e123-c13b-4d04-b624-8242caef551b",
+    "8be9c369-71d9-4ed7-bfac-beefb002ca52"
   ],
   "data": [
     {
@@ -14847,7 +14848,7 @@
       "id": "19e1bace-6c14-4671-8f1e-48d46a9779a7",
       "vndbId": "v4851",
       "bgmId": "10137",
-      "updateDate": 1739612266.35,
+      "updateDate": 1745772118.564,
       "alias": [
         "如月 金★星",
         "キサラギGOLD★STAR",
@@ -14886,9 +14887,15 @@
         "Galgame",
         "SAGAPLANETS"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1745772120,
+          1745772470,
+          343
+        ]
+      ],
       "expectedPlayHours": 31.4,
-      "lastPlay": 0,
+      "lastPlay": 1745772470000,
       "createDate": 1738080000000,
       "releaseDate": 1288310400000,
       "rating": 6.6,
@@ -16275,77 +16282,6 @@
       "links": [],
       "cover": "https://lain.bgm.tv/pic/cover/l/e6/7b/114304_6soSy.jpg",
       "title": "去人たちⅠ／Ⅱ"
-    },
-    {
-      "id": "8be9c369-71d9-4ed7-bfac-beefb002ca52",
-      "vndbId": "v4851",
-      "updateDate": 1743179543.538,
-      "alias": [
-        "キサラギGOLD★STAR",
-        "如月金★星"
-      ],
-      "description": "Six friends live together in an apartment Kosumosu-sou. Even though it is old and run-down, their are always positive and enjoying their time together. Even now they are attending the same school, Kisaragi Academy, and each of them has a special talent, except Futami. He’s just an ordinary student and has always watched over his friends like a mother. Even though his childhood friends are all talented, they cannot do anything without him. Together they have a big dream, which will bring happiness to them all.\n\n[From [url=https://omochikaeri.wordpress.com/2010/10/01/october-2010-eroge-releases/]Hau~ Omochikaeri![/url]]",
-      "tags": [
-        "ADV",
-        "Male Protagonist",
-        "Romance",
-        "Protagonist's Childhood Friend as a Heroine",
-        "Deredere Heroine",
-        "Unlockable Choices",
-        "Unlockable Routes",
-        "Autumn",
-        "Yamato Nadeshiko Heroine",
-        "Fighting Heroine",
-        "Comedy",
-        "Kuudere Heroine",
-        "One True End",
-        "Student Council",
-        "Protagonist's Non-blood-related Sister as a Heroine",
-        "Map Movement",
-        "Student Club",
-        "School Festival",
-        "Small Breast Sizes Heroine (Non-Loli)",
-        "Childishly Violent Heroine",
-        "Painter Heroine",
-        "Bad Ending(s)",
-        "Ponytail Heroine",
-        "Defloration",
-        "More Than Seven Heroines",
-        "Only Virgin Heroines",
-        "Group of Friends",
-        "Wedding",
-        "Pretending Heroine",
-        "Missionary Position"
-      ],
-      "playTimelines": [],
-      "expectedPlayHours": 31.4,
-      "lastPlay": 0,
-      "createDate": 1743179543538,
-      "releaseDate": 1288310400000,
-      "rating": 7.3,
-      "developer": "SAGA PLANETS",
-      "images": [
-        "https://t.vndb.org/sf/08/14508.jpg",
-        "https://t.vndb.org/sf/09/14509.jpg",
-        "https://t.vndb.org/sf/10/14510.jpg",
-        "https://t.vndb.org/sf/11/14511.jpg",
-        "https://t.vndb.org/sf/12/14512.jpg",
-        "https://t.vndb.org/sf/13/14513.jpg",
-        "https://t.vndb.org/sf/15/14515.jpg",
-        "https://t.vndb.org/sf/16/14516.jpg"
-      ],
-      "links": [
-        {
-          "url": "https://ja.wikipedia.org/wiki/キサラギGOLD★STAR",
-          "name": "jawiki"
-        },
-        {
-          "url": "https://www.wikidata.org/wiki/Q11296640",
-          "name": "wikidata"
-        }
-      ],
-      "cover": "https://t.vndb.org/cv/55/94555.jpg",
-      "title": "Kisaragi Gold ★ Star"
     }
   ]
 }
