@@ -15343,7 +15343,7 @@
       "id": "c365cac8-1f18-4002-98ea-b1f947cc9358",
       "vndbId": "v2368",
       "bgmId": "14510",
-      "updateDate": 1739612463.395,
+      "updateDate": 1748334987.213,
       "alias": [
         "DEARDROPS"
       ],
@@ -15380,9 +15380,15 @@
         "Galgame",
         "OVERDRIVE"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1748334989,
+          1748335569,
+          506
+        ]
+      ],
       "expectedPlayHours": 25,
-      "lastPlay": 0,
+      "lastPlay": 1748335569000,
       "createDate": 1738080000000,
       "releaseDate": 1276819200000,
       "rating": 7.8,
