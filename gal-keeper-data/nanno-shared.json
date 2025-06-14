@@ -45,7 +45,9 @@
     "34688763-14ea-49cc-8b4f-5185b802027f",
     "23e0add3-37c6-41be-8d67-9a942c4c308e",
     "7743e123-c13b-4d04-b624-8242caef551b",
-    "8be9c369-71d9-4ed7-bfac-beefb002ca52"
+    "8be9c369-71d9-4ed7-bfac-beefb002ca52",
+    "e016d2fe-bbd3-452c-adcc-73429120be14",
+    "3b01dbfd-b2b3-43ec-b599-5dd2af8bb105"
   ],
   "data": [
     {
@@ -15485,10 +15487,15 @@
           1749835258,
           1749838362,
           2443
+        ],
+        [
+          1749923215,
+          1749923456,
+          234
         ]
       ],
       "expectedPlayHours": 25,
-      "lastPlay": 1749838362000,
+      "lastPlay": 1749923456000,
       "createDate": 1738080000000,
       "releaseDate": 1276819200000,
       "rating": 7.8,
@@ -16388,6 +16395,78 @@
       "links": [],
       "cover": "https://lain.bgm.tv/pic/cover/l/e6/7b/114304_6soSy.jpg",
       "title": "去人たちⅠ／Ⅱ"
+    },
+    {
+      "id": "ed1e33d2-f9d7-4878-a548-3422cecd34a5",
+      "vndbId": "v1001",
+      "updateDate": 1749923140.832,
+      "alias": [
+        "CARNIVAL"
+      ],
+      "description": "After being arrested for the murder of a fellow student, the protagonist escapes from custody when the police car he's in has an accident. Knowing he will one day be caught again, he decides to spend what little time he has in freedom to try and return a handkerchief.",
+      "tags": [
+        "Drama",
+        "Enforced Playing Order",
+        "Amnesia",
+        "Spontaneous Sex Scenes",
+        "Madness",
+        "Protagonist with Multiple Personalities",
+        "Villainous Protagonist",
+        "Thriller",
+        "More Than Seven Endings",
+        "Central Heroine",
+        "Blind Choices",
+        "Bad Ending(s)",
+        "Rape",
+        "Scenario Selection",
+        "Bullying",
+        "Suspense",
+        "High Amounts of Rape",
+        "Crime",
+        "Festival",
+        "Protagonist with a Face",
+        "Sexual Child Abuse",
+        "Homicide",
+        "High School Student Heroine",
+        "Sex with Protagonist Only",
+        "High Amount of Bad Endings",
+        "ADV",
+        "NVL",
+        "Rapist Protagonist",
+        "Romance",
+        "Brief NVL Scenes"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 12.4,
+      "lastPlay": 0,
+      "createDate": 1749923021536,
+      "releaseDate": 1084492800000,
+      "rating": 7.3,
+      "developer": "FlyingShine",
+      "images": [
+        "https://t.vndb.org/sf/67/67.jpg",
+        "https://t.vndb.org/sf/68/68.jpg",
+        "https://t.vndb.org/sf/69/69.jpg",
+        "https://t.vndb.org/sf/70/70.jpg",
+        "https://t.vndb.org/sf/71/71.jpg",
+        "https://t.vndb.org/sf/84/9084.jpg",
+        "https://t.vndb.org/sf/85/9085.jpg",
+        "https://t.vndb.org/sf/86/9086.jpg",
+        "https://t.vndb.org/sf/87/9087.jpg",
+        "https://t.vndb.org/sf/88/9088.jpg"
+      ],
+      "links": [
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/CARNIVAL_(ゲーム)"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q11193010"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/51/1251.jpg",
+      "title": "CARNIVAL"
     }
   ]
 }
