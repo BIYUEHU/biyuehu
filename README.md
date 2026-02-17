@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-- 🧩 The best like character is [Himeno Sena(姬野星奏)](https://himeno-sena.com) and [Arimura Romi(有村ロミ)](https://m.hotaru.icu/#/character/4)
+- 🧩 The best like character is [Himeno Sena(姬野星奏)](https://himeno-sena.com) and [Arimura Romi(有村ロミ)](https://arimuraromi.com)
 - 🌱 I'm currently learning Idris2 and Type Theory
 - 👯 Blog: [HotaruBlog](https://hotaru.icu)
 <!-- - 🧊 Bangumi: [himeno](https://bgm.tv/user/himeno) -->
@@ -57,6 +57,7 @@ skills = MkSkills
 <a href="https://www.google.com/chrome/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/> </a>
 </div> -->
 
+<!--
 ### 💻 Stats
 
 <div align="center">
@@ -65,3 +66,4 @@ skills = MkSkills
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biyuehu)
 
 </div>
+-->
