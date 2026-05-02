@@ -57,13 +57,13 @@ skills = MkSkills
 <a href="https://www.google.com/chrome/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/> </a>
 </div> -->
 
-<!--
+
 ### 💻 Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biyuehu&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biyuehu)
+![GitHub Stats](https://github-readme-stats-sooty-nu-61.vercel.app/api?username=biyuehu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&all_time_contribs=true)
+![Most Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biyuehu&layout=compact&langs_count=10&theme=algolia)
 
 </div>
--->
+
